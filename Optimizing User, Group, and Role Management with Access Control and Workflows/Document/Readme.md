@@ -29,5 +29,6 @@ This folder contains all the documentation for the project "Optimizing User, Gro
 
 ## Team Information
 - **Team ID:** NM2025TMID01639
-- **College:** [Your College Name]
+- **College:** Jayaraj Annapackiam CSI College of Engineering 
+
 - **Program:** Smart Internz
