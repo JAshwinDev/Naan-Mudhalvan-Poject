@@ -9,25 +9,10 @@ This ServiceNow project implements a comprehensive user management system with p
 - **Team Leader:** Ashwin Devashir J
 - **Team Members:** Godson Azariah K, Jebaseelan Reginald P, Subburaj M
 
-## Project Structure
-Optimizing-User-Group-Role-Management/
-│
-├── README.md
-│
-├── Document/
-│ ├── Readme.md
-│ ├── Ideation phase/
-│ ├── Project Planning Phase/
-│ ├── Requirement Analysis/
-│ ├── Project Design Phase/
-│ └── Performance Testing/
-│
-└── Video Demo/
-└── Readme.md
-
 ## Key Features
 - User, Group, and Role Management
 - Access Control List (ACL) Configuration
 - Automated Workflows using Flow Designer
 - Role-based Application Access
+
 - Task Management with Approval Processes
